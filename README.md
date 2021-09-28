@@ -1,3 +1,3 @@
 #Gabriel
-er="0" allow="autoplay" allowfullscreen></iframe></
-<A href = " https://redecanaistv.net/player3/canais.al=foxsports1&img=foxsports1 " Alvo = "
+<a href="https://redecanaistv.net/player3/canais.php?canal=foxsports1&img=foxsports1" target="_blank">Ir para o tv em nova página</a>
+
