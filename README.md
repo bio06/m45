@@ -1,1 +1,7 @@
 #Gabriel
+Gabriel Marley 
+<div style="position: relative; padding-bottom: 56%; height: 0;"><iframe src="https://api.filmeon.xyz/tv.php?id=tnt" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="autoplay" allowfullscreen></iframe></div>
+
+<iframe width="100%" height="450" src="https://api.filmeon.xyz/tv.php?id=megapix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<a href="https://redecanaistv.net/player3/canais.php?canal=foxsports1&img=foxsports1" target="_blank">Ir para o tv em nova página</a>
